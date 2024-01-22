@@ -9,7 +9,7 @@
 - 📫 How to reach me **joaovictordsl00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
