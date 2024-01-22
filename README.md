@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👯 I’m looking to collaborate on **open source and freelancer projects**
+- 👯 I’m looking to collaborate on **open source and freelance projects**
 
 - 💬 Ask me about **UIkit**
 
