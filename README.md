@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joao Victor</h1>
-<h3 align="center">A passionate iOS developer from Brazil</h3>
+<h3 align="center">A passionate Golang developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictordsl&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictordsl" /> </p>
 
 - 🔭 I’m currently working on **freelancing projects**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **open source and freelance projects**
-
-- 💬 Ask me about **UIkit**
 
 - 📫 How to reach me **joaovictordsl00@gmail.com**
 
