@@ -33,6 +33,10 @@
 <br/>
 <h3 align="center">My Activity Graph</h3>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictordsl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="joaovictordsl" />
+</p>
+<p align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictordsl&theme=tokyonight" width="100%" />
 </p>
 
