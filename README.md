@@ -32,13 +32,13 @@
 
 <br/>
 
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordsl&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictordsl&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictordsl&theme=tokyonight&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictordsl&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://img.shields.io/github/commit-activity/m/joaovictordsl?style=for-the-badge&color=0e75b6&label=COMMITS" />
+  <img src="https://img.shields.io/github/last-commit/joaovictordsl/joaovictordsl?style=for-the-badge&color=0e75b6&label=LAST%20UPDATE" />
 </p>
