@@ -29,9 +29,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
 </a>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictordsl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordsl&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictordsl&show_icons=true&locale=en&layout=compact" alt="joaovictordsl" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictordsl&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovictordsl&show_icons=true&locale=en" alt="joaovictordsl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictordsl&" alt="joaovictordsl" /></p>
+
