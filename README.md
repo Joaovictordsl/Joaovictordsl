@@ -30,5 +30,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictordsl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="joaovictordsl" />
+</p>
+
 <br/>
 
