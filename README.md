@@ -36,7 +36,7 @@
 <h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictordsl&theme=tokyonight&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictordsl&theme=nord&area=true" width="100%" />
 </p>
 
 <p align="center">
