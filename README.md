@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joao Victor</h1>
+<h1 align="center">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1>
 <h3 align="center">A passionate DevOps Engineer - Golang developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif">
 
